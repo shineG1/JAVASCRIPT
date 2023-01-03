@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script type="text/javascript">
+
        /* const 키워드로 생성된 변수는 상수 이므로 새 값을 할당할 수 없다.
        const age = 26;
         age = 27;
@@ -20,9 +13,3 @@
         // 값을 재할당해야 하는 상황이 아니라면 항상 const를 쓰자.
         // 나중에 재할당해야 한다면 간단히 let으로 바꾸면 됨.
         
-    </script>
-</head>
-<body>
-    
-</body>
-</html>
